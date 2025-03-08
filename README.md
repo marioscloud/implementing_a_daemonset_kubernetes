@@ -1,4 +1,4 @@
-This repository contains the resources for a hands-on lab from the course Introduction to Containers with Docker, Kubernetes & OpenShift, part of the IBM DevOps and Software Engineering Professional Certificate. The lab demonstrates how to implement a DaemonSet in Kubernetes. 
+This repository contains the resources for a hands-on lab from the course Introduction to Containers with Docker, Kubernetes & OpenShift, part of the ***IBM DevOps and Software Engineering Professional Certificate.*** The lab demonstrates how to implement a DaemonSet in Kubernetes. 
 
 A DaemonSet ensures that a copy of a specific Pod runs on all (or some) nodes in the cluster. It is particularly useful for deploying system-level applications that provide essential services across the nodes in a cluster, such as log collection, monitoring, or networking services. 
 
